@@ -9,7 +9,7 @@ The focus is on concept clarity, syllabus-based MCQ practice, and exam-day prepa
 
 - Carry a **color print of your Admit Card**
 - Bring a **Citizenship ID**
-- Carry an **approved calculator**
+- Carry a **scientific calculator**
 - Do not tick answers randomly
 - Read every question carefully before answering
 - Use your full **2 hours** wisely  
